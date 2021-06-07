@@ -1,6 +1,6 @@
-int func1();
-int func2();
-int func3();
+void func1();
+void func2();
+void func3();
 
 int main()
 {

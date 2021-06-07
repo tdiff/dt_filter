@@ -1,13 +1,11 @@
 #include <stdio.h>
 
-int func1()
+void func1()
 {
 	printf("func1@lib1\n");
-	return 1;
 }
 
-int func2()
+void func2()
 {
 	printf("func2@lib1\n");
-	return 2;
 }
